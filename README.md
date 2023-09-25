@@ -14,3 +14,4 @@ Challenges:
 For some reason, when I was loading up by shin.py file, from was underlined and was not going running properly. I thought I had installed shiny properly, but once I had renamed by files and made sure to put by dataset in the shiny file, it had ran. I had to cd into the proper files such as the datsci_4_web_viz and then to shin.py, and from there did shiny ryn shin.py and set the port to 8,000 and it ran properly and my visualizations were there.
 
 
+# Flask with Matplotlib Visualization:
