@@ -6,6 +6,8 @@ This is assignment 4 for HHA 507.
 https://ncanrv-maliha-hossain.shinyapps.io/project/
 
 Challenges: There were a number of challenges I had encountered while running this application. The first one was loading in the csv properly. That had to be completed by right clicking and choosing set working directory. Once that was properly loaded in, another issue that I had run into was that when I had deployed the app it said it would not work unless the file was in app.R whereas my file was untitled. Once that was renamed and fixed the application deployed and is running. 
+<img width="1201" alt="Screen Shot 2023-09-26 at 2 28 10 PM" src="https://github.com/malh718/datasci_4_web_viz/assets/102617334/d72397da-158a-4ad6-8beb-530778d78896">
+
 
 # Python's Shiny Visualization:
 https://8000-cs-741144739238-default.cs-us-east1-rtep.cloudshell.dev/?authuser=0
