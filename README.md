@@ -11,7 +11,10 @@ Challenges: There were a number of challenges I had encountered while running th
 https://8000-cs-741144739238-default.cs-us-east1-rtep.cloudshell.dev/?authuser=0
 
 Challenges: 
-For some reason, when I was loading up by shin.py file, from was underlined and was not going running properly. I thought I had installed shiny properly, but once I had renamed by files and made sure to put by dataset in the shiny file, it had ran. I had to cd into the proper files such as the datsci_4_web_viz and then to shin.py, and from there did shiny ryn shin.py and set the port to 8,000 and it ran properly and my visualizations were there.
+For some reason, when I was loading up by shin.py file, from was underlined and was not going running properly. I thought I had installed shiny properly, but once I had renamed by files and made sure to put by dataset in the shiny file, it had ran. I had to cd into the proper files such as the datsci_4_web_viz and then to shin.py, and from there did shiny ryn shin.py and set the ort to 8,000 and it ran properly and my visualizations were there.
+
+<img width="1352" alt="Screen Shot 2023-09-26 at 2 27 36 PM" src="https://github.com/malh718/datasci_4_web_viz/assets/102617334/8baf529c-6978-4903-bc02-31301928592f">
+
 
 
 # Flask with Matplotlib Visualization:
