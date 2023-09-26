@@ -19,8 +19,9 @@ For some reason, when I was loading up by shin.py file, from was underlined and 
 
 
 
+
 # Flask with Matplotlib Visualization:
 https://5000-cs-741144739238-default.cs-us-east1-rtep.cloudshell.dev/?authuser=0&redirectedPreviously=true
 Everything worked accordingly, however I stopped and restarted and it said my port was already in use and to restart with a new port, however when I refreshed the link that I had that showed Binge Drinking Age-adjusted Prevalence in Delaware by County, it was populating properly and working so I left it. 
-
+<img width="1201" alt="Screen Shot 2023-09-26 at 2 28 10 PM" src="https://github.com/malh718/datasci_4_web_viz/assets/102617334/c2860b88-5912-4e14-94a8-94615e9512af">
 
