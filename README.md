@@ -15,3 +15,7 @@ For some reason, when I was loading up by shin.py file, from was underlined and 
 
 
 # Flask with Matplotlib Visualization:
+https://5000-cs-741144739238-default.cs-us-east1-rtep.cloudshell.dev/?authuser=0&redirectedPreviously=true
+
+
+
